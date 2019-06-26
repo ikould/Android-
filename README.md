@@ -18,6 +18,7 @@
 
 ## 进阶知识篇
 [1.  android资源分包 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/advance/android%E8%B5%84%E6%BA%90%E5%88%86%E5%8C%85.md)   
+[2.  android跳转设置各个界面完整Action 统计 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/advance/android%E8%B5%84%E6%BA%90%E5%88%86%E5%8C%85.md)   
 
 ## 源码
 
