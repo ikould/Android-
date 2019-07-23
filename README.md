@@ -15,6 +15,7 @@
 [10.  Android反射 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/base/Android%E5%8F%8D%E5%B0%84.md)   
 [11.  Service启动，AIDL ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/base/Service%E5%90%AF%E5%8A%A8%EF%BC%8CAIDL.md)   
 [12.  UserId和process，包名和签名问题 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/base/UserId%E5%92%8Cprocess%EF%BC%8C%E5%8C%85%E5%90%8D%E5%92%8C%E7%AD%BE%E5%90%8D%E9%97%AE%E9%A2%98.md)   
+[13.  打包方法超上限 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/base/%E6%89%93%E5%8C%85%E6%96%B9%E6%B3%95%E8%B6%85%E4%B8%8A%E9%99%90.md)   
 
 ## 进阶知识篇
 [1.  android资源分包 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/advance/android%E8%B5%84%E6%BA%90%E5%88%86%E5%8C%85.md)   
