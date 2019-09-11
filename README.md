@@ -21,6 +21,9 @@
 [1.  android资源分包 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/advance/android%E8%B5%84%E6%BA%90%E5%88%86%E5%8C%85.md)   
 [2.  android跳转设置各个界面完整Action 统计 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/advance/android%E8%B7%B3%E8%BD%AC%E8%AE%BE%E7%BD%AE%E5%90%84%E4%B8%AA%E7%95%8C%E9%9D%A2%E5%AE%8C%E6%95%B4Action%20%E7%BB%9F%E8%AE%A1.md)   
 [3.  Google protocol buffers的使用 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/advance/Google%20protocol%20buffers%E4%BD%BF%E7%94%A8.md)   
+[4.  JNI调用方法 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/advance/JNI%E8%B0%83%E7%94%A8%E6%96%B9%E6%B3%95.md)   
+
+
 
 ## 源码
 
