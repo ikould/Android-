@@ -22,10 +22,11 @@
 [2.  android跳转设置各个界面完整Action 统计 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/advance/android%E8%B7%B3%E8%BD%AC%E8%AE%BE%E7%BD%AE%E5%90%84%E4%B8%AA%E7%95%8C%E9%9D%A2%E5%AE%8C%E6%95%B4Action%20%E7%BB%9F%E8%AE%A1.md)   
 [3.  Google protocol buffers的使用 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/advance/Google%20protocol%20buffers%E4%BD%BF%E7%94%A8.md)   
 [4.  JNI调用方法 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/advance/JNI%E8%B0%83%E7%94%A8%E6%96%B9%E6%B3%95.md)   
-
+[5.  WindowManager对于窗口的管理以及悬浮窗的实现 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/advance/WindowManager%E5%AF%B9%E4%BA%8E%E7%AA%97%E5%8F%A3%E7%9A%84%E7%AE%A1%E7%90%86%E4%BB%A5%E5%8F%8A%E6%82%AC%E6%B5%AE%E7%AA%97%E7%9A%84%E5%AE%9E%E7%8E%B0.md)   
+[6.  android实现远程控制 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/advance/android%E5%AE%9E%E7%8E%B0%E8%BF%9C%E7%A8%8B%E6%8E%A7%E5%88%B6.md)   
 
 ## 扩展
-
+[1.  RTMP语音通讯 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/extend/RTMP%E8%AF%AD%E9%9F%B3%E9%80%9A%E8%AE%AF.md)   
 
 # 网络相关
 [1.  一篇故事讲述了网关、DHCP、IP寻址、欺骗等技术 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Network/%E4%B8%80%E7%AF%87%E6%95%85%E4%BA%8B%E8%AE%B2%E8%BF%B0%E4%BA%86%E7%BD%91%E5%85%B3%E3%80%81DHCP%E3%80%81IP%E5%AF%BB%E5%9D%80%E3%80%81%E6%AC%BA%E9%AA%97%E7%AD%89%E6%8A%80%E6%9C%AF.md)   
