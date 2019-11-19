@@ -24,16 +24,8 @@
 [4.  JNI调用方法 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Android/advance/JNI%E8%B0%83%E7%94%A8%E6%96%B9%E6%B3%95.md)   
 
 
+## 扩展
 
-## 源码
-
-## 插件
-
-**1. Gradle插件使用**  
-**2. 插件化**  
-**3. 热更新**  
 
 # 网络相关
 [1.  一篇故事讲述了网关、DHCP、IP寻址、欺骗等技术 ](https://github.com/ikould/Android-Technical-Arrangement/blob/master/Network/%E4%B8%80%E7%AF%87%E6%95%85%E4%BA%8B%E8%AE%B2%E8%BF%B0%E4%BA%86%E7%BD%91%E5%85%B3%E3%80%81DHCP%E3%80%81IP%E5%AF%BB%E5%9D%80%E3%80%81%E6%AC%BA%E9%AA%97%E7%AD%89%E6%8A%80%E6%9C%AF.md)   
-
-# 面试题库收集
